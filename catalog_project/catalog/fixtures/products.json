@@ -1,0 +1,22 @@
+[
+    {
+        "model": "catalog.product",
+        "pk": 1,
+        "fields": {
+            "name": "Товар 1",
+            "description": "Описание товара 1",
+            "base_price": "100.00",
+            "sort_order": 1
+        }
+    },
+    {
+        "model": "catalog.product",
+        "pk": 2,
+        "fields": {
+            "name": "Товар 2",
+            "description": "Описание товара 2",
+            "base_price": "200.00",
+            "sort_order": 2
+        }
+    }
+]
